@@ -1,0 +1,6 @@
+#TextExSpecial.txt
+A1 = (SUM A2 A3)
+A4 = (SUB A2 A3)
+A2 5
+
+F25 =18
